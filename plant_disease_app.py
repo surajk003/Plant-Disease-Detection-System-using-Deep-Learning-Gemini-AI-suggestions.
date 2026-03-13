@@ -8,7 +8,7 @@ import google.generativeai as genai
 # ---------------------------
 # 🔑 Gemini API Setup
 # ---------------------------
-genai.configure(api_key="AIzaSyDyS2vVU9R3n3qx8_g6IX_wgqkQfYoSyLg")
+genai.configure(api_key="")
 
 # ---------------------------
 # Load trained model
